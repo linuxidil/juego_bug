@@ -6,23 +6,25 @@ linea 57 %% arreglado con quitar %
 linea 69 endl arreglado con añadir <
 linea 91 ; arreglado con ; en el break
 linea 102 whiles arreglado eliminando la s
-linea 493 }
 linea 135 ; agregando un ; en la linea
+linea 145 int arreglado cambiando a void
 linea 148 enl; arreglado con endl;
 linea 151 > arreglado agregando >
 linea 154 no declarado arreglado con un void 
-linea 163 no declarado
-linea 169 : en case 2
-linea 174 no declarado 
-linea 175 pueblo no declarado 
-linea 178 {
+linea 163 no declarado se arreglo con el uso de llaves en distintas zonas del codigo 
+linea 169 : en case 2 arreglado agregando : 
+linea 175 pueblo no declarado se arreglo con el uso de llaves en ditintos lugares 
 linea 184 "fue un golpe critico" arreglado con ""
-linea 198 {
-linea 216 {
+linea 196 sin declarar areglado declarando gameover
+linea 233 { arreglado cerrando llave
+linea 272 ; arreglado agregando el ;
+linea 292 a arreglando agregando una a
 linea 301 ;
 linea 493 {
-linea 338 unoss arreglado eliminando ss
-linea 342 ;
+linea 338 unoss arreglado eliminando s
+linea 342 ; arreglado en arma;
 linea 389 six
 linea 411 {
+linea 415 } y ; arreglado agragandolos
+linea 456 else arreglado con un if
 linea 493 }
