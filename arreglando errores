@@ -3,13 +3,13 @@ linea 30 == arreglado con <=
 linea 45 <<<< arreglado con quitar <<
 linea 57 %% arreglado con quitar %
 linea 69 endl arreglado con añadir <
-linea 91 ; arreglado con 
+linea 91 ; arreglado con ; en el break
 linea 102 whiles arreglado eliminando la s
 linea 493 }
-linea 135 ;
+linea 135 ; agregando un ; en la linea
 linea 148 enl; arreglado con endl;
-linea 151 >
-linea 154 no declarado
+linea 151 > arreglado agregando >
+linea 154 no declarado arreglado con un void 
 linea 163 no declarado
 linea 169 : en case 2
 linea 174 no declarado 
