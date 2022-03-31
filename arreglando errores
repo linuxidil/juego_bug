@@ -1,5 +1,6 @@
 linea  12 cin arreglado con >>
 linea 30 == arreglado con <=
+linea 31 =!= arreglado quitando el =
 linea 45 <<<< arreglado con quitar <<
 linea 57 %% arreglado con quitar %
 linea 69 endl arreglado con añadir <
@@ -13,7 +14,9 @@ linea 154 no declarado arreglado con un void
 linea 163 no declarado
 linea 169 : en case 2
 linea 174 no declarado 
+linea 175 pueblo no declarado 
 linea 178 {
+linea 184 "fue un golpe critico" arreglado con ""
 linea 198 {
 linea 216 {
 linea 301 ;
